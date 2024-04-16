@@ -3,7 +3,7 @@
 namespace Warehouse;
 
 class Program
-{   //Stała
+{   //Stała stała
     public const string FILE_NAME = "/home/paulus/RiderProjects/Warehouse/Warehouse/data/ImportFile.xlsx";
     static void Main(string[] args)
     {
