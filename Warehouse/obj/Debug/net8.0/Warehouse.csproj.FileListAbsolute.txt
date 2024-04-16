@@ -1,0 +1,14 @@
+/home/paulus/RiderProjects/Warehouse/Warehouse/bin/Debug/net8.0/Warehouse
+/home/paulus/RiderProjects/Warehouse/Warehouse/bin/Debug/net8.0/Warehouse.deps.json
+/home/paulus/RiderProjects/Warehouse/Warehouse/bin/Debug/net8.0/Warehouse.runtimeconfig.json
+/home/paulus/RiderProjects/Warehouse/Warehouse/bin/Debug/net8.0/Warehouse.dll
+/home/paulus/RiderProjects/Warehouse/Warehouse/bin/Debug/net8.0/Warehouse.pdb
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.AssemblyInfoInputs.cache
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.AssemblyInfo.cs
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.csproj.CoreCompileInputs.cache
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.dll
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/refint/Warehouse.dll
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.pdb
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.genruntimeconfig.cache
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/ref/Warehouse.dll
