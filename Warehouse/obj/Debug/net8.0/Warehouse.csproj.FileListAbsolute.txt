@@ -12,3 +12,4 @@
 /home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.pdb
 /home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.genruntimeconfig.cache
 /home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/ref/Warehouse.dll
+/home/paulus/RiderProjects/Warehouse/Warehouse/obj/Debug/net8.0/Warehouse.sourcelink.json
