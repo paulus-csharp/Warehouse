@@ -3,9 +3,9 @@
 namespace Warehouse;
 
 class Program
-{   //Stała stała
+{   //Stała 
     public const string FILE_NAME = "/home/paulus/RiderProjects/Warehouse/Warehouse/data/ImportFile.xlsx";
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Console.WriteLine("Welcome to warehouse app!");
         Console.WriteLine("Please let me know what you want to do:");
@@ -31,8 +31,7 @@ class Program
         Int32.TryParse(choice, out chosenOption);
         
         Console.WriteLine($"You have chosen option number: {choice}");
-        
-        // int  ala = 45;
+        Console.WriteLine(chosenOption);
     }
     
 }
