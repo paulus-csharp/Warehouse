@@ -10,7 +10,7 @@ namespace Warehouse
             return number;
         }
 
-        public enum ItemTypes
+        public enum ItemType
         {
             Grocery,
             Clothing,
