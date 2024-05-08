@@ -1,32 +1,44 @@
-namespace Warehouse
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Warehouse;
+
+public class Helpers
 {
-    public class Helpers
+    public int GiveMeNumber()
     {
-        public int GiveMeNumber()
-        {
-            SomeStructure stru = new SomeStructure();
+        SomeStructure stru = new SomeStructure();
             
-            int number = 5;
-            return number;
-        }
+        int number = 5;
+        return number;
+    }
 
-        public enum ItemType
+    public enum ItemType
+    {
+        Grocery,
+        Clothing,
+        Electronics
+    }
+
+    public class ItemService
+    {
+        public void AddItem()
+        { }
+
+        public void RemoveItem()
+        { }
+    }
+
+    public struct SomeStructure
+    {
+        private int numberForStructure;
+        private string nameOfStructure;
+
+        public SomeStructure(int number, string name)
         {
-            Grocery,
-            Clothing,
-            Electronics
-        }
-
-        public struct SomeStructure
-        {
-            private int numberForStructure;
-            private string nameOfStructure;
-
-            public SomeStructure(int number, string name)
-            {
-                numberForStructure = number;
-                nameOfStructure = name;
-            }
+            numberForStructure = number;
+            nameOfStructure = name;
         }
     }
 }
